@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Hamza Sajid👋<a href="https://hammad-air.github.io/hamza/"></h1>
+    <h1> Hi there, I'm Muhammad Waleed👋<a href="https://github.com/iamwaleed9"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,15 +9,15 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at @ZABIST 🤖
+🤵 Studying at BUITEMS 🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 Front-End Web Developer
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Dealt with 80+ Projects 
 
 📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
  
-<h2>Tech Stack</h2>
+<h2>Front-End Web Developer</h2>
 
 <table width="100">
 <tr>
@@ -47,11 +47,7 @@
     <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
     </td>
- <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
-    </td>
-     <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media&token=83a42d53-6832-4da8-b5ee-db7fb310b4a7">
+
     </td>    
     <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
@@ -61,9 +57,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:std-hamza@gmail.com"><img src="https://img.shields.io/badge/-hamzasajid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hamzasajid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/iamwaleed9/"><img src="https://img.shields.io/badge/-Muhammad%20Waleed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:std-iamwaleed@outlook.com"><img src="https://img.shields.io/badge/-iamwaleed@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
 <br>
