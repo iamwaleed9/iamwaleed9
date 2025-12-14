@@ -8,8 +8,7 @@
 ---
 
 ### 🤵 About Me  
-- 🎓 Studying at **BUITEMS**  
-- 👨‍💻 Worked on **80+ Projects**  
+- 👨‍💻 Worked on **20+ Projects**  
 - 🚀 Exploring **Generative AI** and **Chatbot Development**  
 
 ---
